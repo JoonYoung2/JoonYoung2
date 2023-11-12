@@ -10,7 +10,6 @@
 <br>
 
 ### ⚡ Tech Stack
-<div align="center">
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/JavaScript-green?style=flat&logo=Sass&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/HTML5-green?style=flat&logo=Sass&logoColor=E34F26"/> 
@@ -26,7 +25,6 @@
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Sass&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/Gradle-green?style=flat&logo=Sass&logoColor=02303A"/>
 <img src="https://img.shields.io/badge/PL\/SQL-green?style=flat&logo=Sass&logoColor=4169E1"/>
-</div>
 </div>
 
 
