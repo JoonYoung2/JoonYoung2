@@ -11,10 +11,10 @@
 
 ### ⚡ Tech Stack
 <div style="display:flex;">
-<img src="https://img.shields.io/badge/JavaScript-green?style=flat&logo=Sass&logoColor=F7DF1E"/> 
-<img src="https://img.shields.io/badge/HTML5-green?style=flat&logo=Sass&logoColor=E34F26"/> 
+<img src="https://img.shields.io/badge/JavaScript-red?style=flat&logo=Sass&logoColor=F7DF1E"/> 
+<img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=Sass&logoColor=E34F26"/> 
 <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=Sass&logoColor=1572B6"/> 
-<img src="https://img.shields.io/badge/jQuery-green?style=flat&logo=Sass&logoColor=0769AD"/>
+<img src="https://img.shields.io/badge/jQuery-white?style=flat&logo=Sass&logoColor=0769AD"/>
 </div>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Sass&logoColor=66CFE3"/>
