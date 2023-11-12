@@ -3,17 +3,21 @@
 ## I major in Java, Javascript, etc. <br>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JoonYoung2)<br>
 
-### 🧰 My languages and tools
+<div align="center">
+<h2>🧰 My languages and tools</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonYoung2&layout=compact)](https://github.com/JoonYoung2/JoonYoung2)
+</div>
 <br>
 
-### 📫 How to reach me
+<div align="center">
+<h2>📫 How to reach me</h2>
 * Instagram : [@JoonYoung2](https://www.instagram.com/jyseo0901/)
+</div>
 <br><br>
 
 <div align="center">
-### ⚡ Tech Stack
+<h2>⚡ Tech Stack</h2>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/JavaScript-green?style=flat&logo=Sass&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/HTML5-green?style=flat&logo=Sass&logoColor=E34F26"/> 
