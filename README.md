@@ -5,7 +5,7 @@
 
 ### 🧰 My languages and tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonYoung2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonYoung2&layout=compact)](https://github.com/JoonYoung2/JoonYoung2)
 <br>
 
 ### 📫 How to reach me
