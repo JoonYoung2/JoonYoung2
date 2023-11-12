@@ -10,13 +10,13 @@
 <br>
 
 ### ⚡ Tech Stack
-- FE
-<div style="display:flex;">
+- FE <div style="display:flex;">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=Sass&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=Sass&logoColor=E34F26"/> 
 <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=Sass&logoColor=1572B6"/> 
 <img src="https://img.shields.io/badge/jQuery-white?style=flat&logo=Sass&logoColor=0769AD"/>
 </div>
+
 - BE
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Sass&logoColor=66CFE3"/>
