@@ -12,6 +12,7 @@
 * Instagram : [@JoonYoung2](https://www.instagram.com/jyseo0901/)
 <br><br>
 
+<div align="center">
 ### ⚡ Tech Stack
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/JavaScript-green?style=flat&logo=Sass&logoColor=F7DF1E"/> 
@@ -19,12 +20,17 @@
 <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=Sass&logoColor=1572B6"/> 
 <img src="https://img.shields.io/badge/jQuery-green?style=flat&logo=Sass&logoColor=0769AD"/>
 </div>
+<div style="display:flex;">
 <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Sass&logoColor=66CFE3"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Sass&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/><br>
+<img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/>
+</div>
+<div style="display:flex;">
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Sass&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/Gradle-green?style=flat&logo=Sass&logoColor=02303A"/>
 <img src="https://img.shields.io/badge/PL\/SQL-green?style=flat&logo=Sass&logoColor=4169E1"/>
+</div>
+</div>
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoonYoung2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
