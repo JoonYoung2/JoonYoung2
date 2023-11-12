@@ -6,9 +6,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JoonYoung2)<br>
 
 ### 🧰 My languages and tools
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonYoung2&layout=compact)](https://github.com/JoonYoung2/JoonYoung2)
-</div>
 <br>
 
 ### ⚡ Tech Stack
