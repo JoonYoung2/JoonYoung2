@@ -11,20 +11,20 @@
 
 ### ⚡ Tech Stack
 <div style="display:flex;">
-<img src="https://img.shields.io/badge/JavaScript-red?style=flat&logo=Sass&logoColor=F7DF1E"/> 
-<img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=Sass&logoColor=E34F26"/> 
-<img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=Sass&logoColor=1572B6"/> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=Sass&logoColor=F7DF1E"/> 
+<img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=Sass&logoColor=E34F26"/> 
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=Sass&logoColor=1572B6"/> 
 <img src="https://img.shields.io/badge/jQuery-white?style=flat&logo=Sass&logoColor=0769AD"/>
 </div>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Sass&logoColor=66CFE3"/>
-<img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Sass&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Node.js-yellow?style=flat&logo=Sass&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Sass&logoColor=3776AB"/>
 </div>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Sass&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Gradle-green?style=flat&logo=Sass&logoColor=02303A"/>
-<img src="https://img.shields.io/badge/PL/SQL-green?style=flat&logo=Sass&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Gradle-black?style=flat&logo=Sass&logoColor=02303A"/>
+<img src="https://img.shields.io/badge/PL/SQL-white?style=flat&logo=Sass&logoColor=4169E1"/>
 </div>
 
 
