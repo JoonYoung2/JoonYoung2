@@ -24,7 +24,7 @@
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=Sass&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/Gradle-green?style=flat&logo=Sass&logoColor=02303A"/>
-<img src="https://img.shields.io/badge/PL\/SQL-green?style=flat&logo=Sass&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/PL/SQL-green?style=flat&logo=Sass&logoColor=4169E1"/>
 </div>
 
 
