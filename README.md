@@ -1,6 +1,6 @@
 ## Hi there 👋<br>I`m a K.U. student who want be a software developer. 💻
 - K.U. means my university, Konyang University.
-## I major in Java, Javascript, etc. <br>
+## I major in Java, Javascript, etc.
 
 ### 🤔My Git Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JoonYoung2)<br>
