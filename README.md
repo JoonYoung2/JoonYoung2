@@ -1,23 +1,18 @@
 ## Hi there 👋<br>I`m a K.U. student who want be a software developer. 💻
 - K.U. means my university, Konyang University.
 ## I major in Java, Javascript, etc. <br>
+
+### 🤔My Git Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JoonYoung2)<br>
 
+### 🧰 My languages and tools
 <div align="center">
-<h2>🧰 My languages and tools</h2>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonYoung2&layout=compact)](https://github.com/JoonYoung2/JoonYoung2)
 </div>
 <br>
 
+### ⚡ Tech Stack
 <div align="center">
-<h2>📫 How to reach me</h2>
-* Instagram : [@JoonYoung2](https://www.instagram.com/jyseo0901/)
-</div>
-<br><br>
-
-<div align="center">
-<h2>⚡ Tech Stack</h2>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/JavaScript-green?style=flat&logo=Sass&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/HTML5-green?style=flat&logo=Sass&logoColor=E34F26"/> 
@@ -35,6 +30,12 @@
 <img src="https://img.shields.io/badge/PL\/SQL-green?style=flat&logo=Sass&logoColor=4169E1"/>
 </div>
 </div>
+
+
+### 📫 How to reach me
+* Instagram : [@JoonYoung2](https://www.instagram.com/jyseo0901/)
+<br><br>
+
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoonYoung2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
