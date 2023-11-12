@@ -13,10 +13,7 @@
 <br><br>
 
 ### ⚡ Tech Stack
-<img src="https://img.shields.io/badge/JavaScript-green?style=flat&logo=Sass&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-green?style=flat&logo=Sass&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=Sass&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/jQuery-green?style=flat&logo=Sass&logoColor=0769AD"/><br>
+<img src="https://img.shields.io/badge/JavaScript-green?style=flat&logo=Sass&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-green?style=flat&logo=Sass&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-green?style=flat&logo=Sass&logoColor=1572B6"/> <img src="https://img.shields.io/badge/jQuery-green?style=flat&logo=Sass&logoColor=0769AD"/><br>
 <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Sass&logoColor=66CFE3"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=Sass&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Sass&logoColor=3776AB"/><br>
@@ -26,7 +23,7 @@
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoonYoung2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
+<!--
 **JoonYoung2/JoonYoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,7 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonYoung2&show_icons=true&theme=radical)
 -->
